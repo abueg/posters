@@ -1,5 +1,8 @@
 # Automated Reference Genome Assembly by Galaxy and the Vertebrate Genome Project
-## Galaxy Community Conference (Brisbane, Australia - July 12, 2023)
+
+### Delphine Lariviere, **Linelle Abueg**, Nadolina Brajuka, Byung June Ko, Narcis Yousefi, Alex Ostrovsky, Joanna Collins, Brandon Pickett, Marc Palmada Flores, Cristo Gallardo, Bjorn Grüning, Adam M. Philippy, Erich D. Jarvis, Michael Schatz, Anton Nekrutenko, Giulio Formenti, the Vertebrate Genomes Project and the Galaxy Team
+
+#### :round_pushpin: Galaxy Community Conference (Brisbane, Australia - July 12, 2023)
 
 Please click through for higher resolution. Note that the poster is two pages. 
 
