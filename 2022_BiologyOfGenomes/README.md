@@ -4,6 +4,8 @@
 
 #### :round_pushpin: Biology of Genomes (Cold Spring Harbor, NY - May 11, 2022)
 
-Please click through for higher resolution.
+Please see [Larivière, Brajuka, Abueg, *et al.* 2023](https://doi.org/10.1101/2023.06.28.546576 ) for the publication that came from this work.
+
+Click through for higher resolution.
 
 ![poster](abueg_poster_BoG2022_final.png)

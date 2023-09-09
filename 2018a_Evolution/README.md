@@ -4,6 +4,6 @@
 
 #### :round_pushpin: Evolution (Montpellier, France - August 2018) 
 
-Please click through for higher resolution.
+Click through for higher resolution.
 
 ![poster](Abueg_Evolution2018_poster.png)
