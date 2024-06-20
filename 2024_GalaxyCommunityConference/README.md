@@ -1,6 +1,6 @@
 Two posters presented at this conference:
-* Automated Reference Genome Assembly in Galaxy - An Update
-* Takeaways from teaching long-read genome assembly using Galaxy
+* [Automated Reference Genome Assembly in Galaxy - An Update](#automated-reference-genome-assembly-in-galaxy---an-update)
+* [Takeaways from teaching long-read genome assembly using Galaxy](#takeaways-from-teaching-long-read-genome-assembly-using-galaxy)
 
 #### :round_pushpin: Galaxy Community Conference (Brno, Czech Republic - June 24-25, 2024)
 

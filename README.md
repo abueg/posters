@@ -1,5 +1,11 @@
 ## Posters! Following list in reverse chronological order.
 
+### [Automated Reference Genome Assembly in Galaxy - An Update](./2024_GalaxyCommunityConference/README.md)
+### [Takeaways from teaching long-read genome assembly using Galaxy](./2024_GalaxyCommunityConference/README.md)
+
+> :calendar: June 2024
+>
+> :round_pushpin: Galaxy Community Conference (Brno, Czech Republic)
 
 ### [Automated Reference Genome Assembly by Galaxy and the Vertebrate Genome Project](./2023_GalaxyCommunityConference/README.md)
 
