@@ -4,7 +4,7 @@
 
 #### :round_pushpin: Galaxy Community Conference (Brisbane, Australia - July 12, 2023)
 
-Please see [Larivière, Brajuka, Abueg, *et al.* 2023](https://doi.org/10.1101/2023.06.28.546576 ) for the publication that came from this work.
+Please see [Larivière, Brajuka, Abueg, *et al.* 2024](https://doi.org/10.1038/s41587-023-02100-3) for the publication that came from this work.
 
 Click through for higher resolution. Note that the poster is two pages. 
 
