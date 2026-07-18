@@ -1,5 +1,11 @@
 ## Posters! Following list in reverse chronological order.
 
+### [High Performance Computing Resource Center zine](./2026_RockefellerUniversityResourceCenterExpo/README.md)
+
+> :calendar: March 2026
+>
+> :round_pushpin: Rockefeller University Resource Center Expo (New York, NY)
+
 ### [Automated Reference Genome Assembly in Galaxy - An Update](./2024_GalaxyCommunityConference/README.md) & [Takeaways from teaching long-read genome assembly using Galaxy](./2024_GalaxyCommunityConference/README.md)
 
 > :calendar: June 2024
